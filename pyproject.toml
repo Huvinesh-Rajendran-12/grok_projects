@@ -1,0 +1,13 @@
+[project]
+name = "grok-projects"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=6.29.5",
+    "python-dotenv>=1.0.1",
+    "python-fasthtml>=0.10.3",
+    "ruff>=0.8.4",
+    "xai-grok-sdk>=0.0.11",
+]
